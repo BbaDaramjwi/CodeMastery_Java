@@ -1,3 +1,15 @@
+"""
+SCRIPT-PYTHON-CHECK
+
+Autor: Kkeungi Daramjwi
+Created: 2023-10-30
+
+Description: 
+With this script, you can easily check which version you have installed,
+which modules are installed and which keywords are usable in this Python version.
+"""
+    
+
 import keyword
 import sys
 import pkg_resources
