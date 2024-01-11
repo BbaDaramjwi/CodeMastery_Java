@@ -8,4 +8,4 @@ the management of individual files is essential.
 - [X] Easy setup on any device
 
 What better choice is there than the combination of Git & GitHub?  
-Even knowing that there are other options and cons, I am opting for this combination initially.  
+Even knowing that there are cons other options and, I am opting for this combination initially.  
