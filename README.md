@@ -8,3 +8,5 @@ In this repository, you'll find a collection of Java exercises and projects that
 The ideas for the respective tasks originate from the courses I have attended, the internet, books, or they occurred to me spontaneously.
 
 Feel free to explore the exercises and projects! If you have any suggestions or improvements, please let me know.
+
+>[!tip] Definition test
