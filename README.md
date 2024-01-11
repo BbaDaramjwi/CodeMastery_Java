@@ -5,8 +5,11 @@ This is where I document and store my Java coding exercises as part of my langua
 
 
 ## About
-In this repository, you'll find a collection of Java exercises and projects that I've worked on to improve my coding skills.  
-The ideas for the respective tasks originate from the courses I have attended, the internet, books, or they occurred to me spontaneously.  
+In this repository, you'll find a collection of Java exercises and projects  
+that I've worked on to improve my coding skills.  
+
+The ideas for the respective tasks originate from the courses I have attended,  
+the internet, books, or they occurred to me spontaneously.  
 
 **Feel free to explore the exercises and projects!**  
 
