@@ -7,11 +7,9 @@
 
 
 
-package CodeMastery_JAVA.exercises;
-
 import java.util.Scanner;
 
-public class task03
+public class inputCalculatorSimple
 {
     public static void main(String[] args)
     {
@@ -29,6 +27,7 @@ public class task03
         System.out.println("Please enter the second operand (integer):");
         double b = scanner.nextDouble();
 
+        scanner.close();
 
         double result;
 

@@ -7,12 +7,9 @@
 
 
 
-
-package CodeMastery_JAVA.exercises;
-
 import java.util.Scanner;
 
-public class task22
+public class inputToSumAvg02
 {
     public static void main(String[] args)
     {
@@ -21,6 +18,6 @@ public class task22
         int summe = 0;
         int number = 0;
         
-         
+        
     }
 }

@@ -7,9 +7,7 @@
 
 
 
-package CodeMastery_JAVA.exercises;
-
-public class task07
+public class numbersInTableLook
 {
     public static void main(String[] args)
     {

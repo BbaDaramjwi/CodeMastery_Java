@@ -7,11 +7,9 @@
 */
 
 
-package CodeMastery_JAVA.exercises;
-
 import java.util.Scanner;
 
-public class task06
+public class equipmentAssiggnment
 {
     public static void main(String[] args)
     {
@@ -24,6 +22,8 @@ public class task06
         
         System.out.print("Are you a programmer? (j/n) ");
         String programmer = scanner.next();
+
+        scanner.close();
 
         String computerEquipment;
 

@@ -7,11 +7,9 @@
 
 
 
-package CodeMastery_JAVA.exercises;
-
 import java.util.Scanner;
 
-public class task02
+public class inputToFactorial
 {
     public static void main(String[] args)
     {
@@ -23,7 +21,9 @@ public class task02
 
         System.out.println("Enter an integer: ");
 
-        int userInput = scanner.nextInt();            
+        int userInput = scanner.nextInt();  
+        
+        scanner.close();
         
         int factorial = 1;              
 

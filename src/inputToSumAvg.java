@@ -7,14 +7,11 @@
 
 
 
-package exercises;
-
 import java.util.Scanner;
 import java.util.Arrays;
 
 
-
-public class task01
+public class inputToSumAvg
 {
     public static void main(String[] args)
     {
@@ -48,6 +45,7 @@ public class task01
         }
         while (true);
 
+        scanner.close();
 
         int sum = 0;
         
