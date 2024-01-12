@@ -1,3 +1,8 @@
+/* Exercis: 
+    ...
+    ...
+*/
+
 package CodeMastery_JAVA.exercises;
 
 public class task00
