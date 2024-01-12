@@ -7,7 +7,7 @@
 
 
 
-package CodeMastery_JAVA.exercises;
+package exercises;
 
 import java.util.Scanner;
 import java.util.Arrays;
